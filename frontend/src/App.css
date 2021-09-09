@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  background-color: #ffe8bd;
+}
+
+.App-header {
+  background-color: #ffe8bd;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #000000;
+}
+
+table {
+  display: inline-block;
+}
+
+thead th {
+  padding: 5px 5px;
+  color: white;
+  background-color: black;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+tr {
+  padding: 10px 10px;
+}
+
+tbody {
+  background-color: white;
+}
+
+form {
+  display: block;
+}
+
+.add_text {
+  margin-top: 10px;
+}
